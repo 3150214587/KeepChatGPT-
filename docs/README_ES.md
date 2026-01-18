@@ -210,10 +210,3 @@ Si se produce el siguiente mensaje de error, consulte la solución oficial: [Có
 * Si deseas que este proyecto continúe actualizándose con más funciones.
 * Crear no es fácil, mantener un proyecto requiere tiempo, energía y habilidades técnicas. Se agradece el aprecio y el apoyo.
 * Puedes dejar tu DNI en la nota, gracias.
-
-| Desde | Gracias |
-| --- | --- |
-| Mi gato | <img src="/assets/appreciate_mycat.jpg" width="300"></img> |
-| Buymeacoffee | [<img src="/assets/appreciate_buycoffee.png" width="300"></img>](https://www.buymeacoffee.com/xcanwin) |
-| Afdian<br>(Soporte wechat y alipay) | [<img src="/assets/appreciate_afdian.png" width="300"></img>](https://afdian.net/a/xcanwin/plan) |
-| Wechat<br>(A veces no funciona) | <img src="/assets/appreciate_wechat.png" width="300"></img> |
